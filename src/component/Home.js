@@ -1,10 +1,10 @@
-import React, { Component } from 'react';
+import React from 'react';
 import "../../src/App.css";
 import cropped from '../../src/image/cropped.jpg';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import { library } from '@fortawesome/fontawesome-svg-core'
 import { fab, faGithubSquare, faLinkedin } from '@fortawesome/free-brands-svg-icons'
-import { faTumblr, faTwitter } from '@fortawesome/free-brands-svg-icons'
+import { faTwitter } from '@fortawesome/free-brands-svg-icons'
 
 
 library.add(fab, faGithubSquare, faLinkedin)
